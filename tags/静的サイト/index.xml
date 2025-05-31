@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>静的サイト on My New Blog</title>
+    <link>http://localhost:1313/myblog/tags/%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88/</link>
+    <description>Recent content in 静的サイト on My New Blog</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 31 May 2025 17:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/myblog/tags/%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/myblog/posts/first-post/</link>
+      <pubDate>Sat, 31 May 2025 17:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/myblog/posts/first-post/</guid>
+      <description>&lt;p&gt;こんにちは、Hugoブログの最初の記事です！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

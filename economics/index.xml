@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>経済学 on My New Blog</title>
+    <link>http://localhost:1313/myblog/economics/</link>
+    <description>Recent content in 経済学 on My New Blog</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/myblog/economics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ゲーム理論の入門</title>
+      <link>http://localhost:1313/myblog/economics/game-theory-intro/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/myblog/economics/game-theory-intro/</guid>
+      <description>&lt;p&gt;この記事では、ゲーム理論の基本について紹介します。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
