@@ -1,0 +1,34 @@
+/* Override PaperMod first-entry style */
+.first-entry {
+    display: block !important;
+    min-height: auto !important;
+    flex-direction: unset !important;
+    justify-content: unset !important;
+    margin: 0 0 var(--gap) 0 !important;
+    padding: var(--gap) !important;
+    background: var(--entry) !important;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    transition: transform 0.1s;
+}
+
+.first-entry .entry-header h1 {
+    font-size: 24px !important;
+    line-height: 1.3;
+}
+
+.first-entry .entry-content {
+    font-size: 14px;
+    line-height: 1.6;
+    margin: 8px 0;
+    color: var(--secondary);
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+
+.first-entry .entry-footer {
+    font-size: 13px;
+    color: var(--secondary);
+}

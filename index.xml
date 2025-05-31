@@ -1,49 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>ようこそ on My New Blog</title>
-    <link>http://localhost:1313/myblog/</link>
-    <description>Recent content in ようこそ on My New Blog</description>
-    <generator>Hugo -- 0.147.7</generator>
-    <language>ja</language>
-    <lastBuildDate>Sat, 31 May 2025 17:00:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/myblog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/myblog/posts/first-post/</link>
-      <pubDate>Sat, 31 May 2025 17:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/myblog/posts/first-post/</guid>
-      <description>&lt;p&gt;こんにちは、Hugoブログの最初の記事です！&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pythonの基礎</title>
-      <link>http://localhost:1313/myblog/data-science/python-basics/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/myblog/data-science/python-basics/</guid>
-      <description>&lt;p&gt;この記事では、Pythonの基本的な文法について紹介します。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ゲーム理論の入門</title>
-      <link>http://localhost:1313/myblog/economics/game-theory-intro/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/myblog/economics/game-theory-intro/</guid>
-      <description>&lt;p&gt;この記事では、ゲーム理論の基本について紹介します。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>戦略論の入門</title>
-      <link>http://localhost:1313/myblog/management/strategy-analysis/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/myblog/management/strategy-analysis/</guid>
-      <description>&lt;p&gt;この記事では、戦略論の基礎について紹介します。&lt;/p&gt;
-&lt;h2 id=&#34;ポーターのファイブフォース分析&#34;&gt;ポーターのファイブ・フォース分析&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;ファイブ・フォース分析&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/myblog/images/Five-Forces-Model-Porter.png&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>組織論の入門</title>
-      <link>http://localhost:1313/myblog/management/organization-analysis/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/myblog/management/organization-analysis/</guid>
-      <description>&lt;p&gt;この記事では、組織論の基礎について紹介します。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Home on My New Blog</title><link>https://hiroki-analytics.github.io/myblog/</link><description>Recent content in Home on My New Blog</description><generator>Hugo -- 0.147.7</generator><language>ja</language><lastBuildDate>Sat, 31 May 2025 21:40:47 +0200</lastBuildDate><atom:link href="https://hiroki-analytics.github.io/myblog/index.xml" rel="self" type="application/rss+xml"/><item><title>統計学入門</title><link>https://hiroki-analytics.github.io/myblog/data-science/statistics-intro/</link><pubDate>Sat, 31 May 2025 21:40:47 +0200</pubDate><guid>https://hiroki-analytics.github.io/myblog/data-science/statistics-intro/</guid><description>&lt;p>今回は統計学の導入記事を書いてみたいと思います。&lt;/p>
+&lt;p>統計学は、大きく「記述統計」と「推測統計」に分かれます。&lt;/p>
+&lt;p>「記述統計」は、取得したデータの平均値や分散などを計算し、データから現状を読み取ることを目的としたものです。&lt;/p>
+&lt;p>それとは反対に、「推測統計」とは、今あるデータから、未来やデータの存在しない部分に関する予測を行うことを目的としたものです。&lt;/p></description></item><item><title>First Post</title><link>https://hiroki-analytics.github.io/myblog/posts/first-post/</link><pubDate>Sat, 31 May 2025 17:00:00 +0200</pubDate><guid>https://hiroki-analytics.github.io/myblog/posts/first-post/</guid><description>&lt;p>こんにちは、Hugoブログの最初の記事です！&lt;/p></description></item><item><title>Pythonの基礎</title><link>https://hiroki-analytics.github.io/myblog/data-science/python-basics/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://hiroki-analytics.github.io/myblog/data-science/python-basics/</guid><description>&lt;p>この記事では、Pythonの基本的な文法について紹介します。&lt;/p></description></item><item><title>ゲーム理論の入門</title><link>https://hiroki-analytics.github.io/myblog/economics/game-theory-intro/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://hiroki-analytics.github.io/myblog/economics/game-theory-intro/</guid><description>&lt;p>この記事では、ゲーム理論の基本について紹介します。&lt;/p></description></item><item><title>戦略論の入門</title><link>https://hiroki-analytics.github.io/myblog/management/strategy-analysis/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://hiroki-analytics.github.io/myblog/management/strategy-analysis/</guid><description>&lt;p>この記事では、戦略論の基礎について紹介します。&lt;/p>
+&lt;h2 id="ポーターのファイブフォース分析">ポーターのファイブ・フォース分析&lt;/h2>
+&lt;p>&lt;img alt="ファイブ・フォース分析" loading="lazy" src="https://hiroki-analytics.github.io/myblog/images/Five-Forces-Model-Porter.png">&lt;/p></description></item><item><title>組織論の入門</title><link>https://hiroki-analytics.github.io/myblog/management/organization-analysis/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://hiroki-analytics.github.io/myblog/management/organization-analysis/</guid><description>&lt;p>この記事では、組織論の基礎について紹介します。&lt;/p></description></item></channel></rss>

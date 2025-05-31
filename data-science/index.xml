@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>データサイエンス on My New Blog</title>
-    <link>http://localhost:1313/myblog/data-science/</link>
-    <description>Recent content in データサイエンス on My New Blog</description>
-    <generator>Hugo -- 0.147.7</generator>
-    <language>ja</language>
-    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/myblog/data-science/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pythonの基礎</title>
-      <link>http://localhost:1313/myblog/data-science/python-basics/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/myblog/data-science/python-basics/</guid>
-      <description>&lt;p&gt;この記事では、Pythonの基本的な文法について紹介します。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>データサイエンス on My New Blog</title><link>https://hiroki-analytics.github.io/myblog/data-science/</link><description>Recent content in データサイエンス on My New Blog</description><generator>Hugo -- 0.147.7</generator><language>ja</language><lastBuildDate>Sat, 31 May 2025 21:40:47 +0200</lastBuildDate><atom:link href="https://hiroki-analytics.github.io/myblog/data-science/index.xml" rel="self" type="application/rss+xml"/><item><title>統計学入門</title><link>https://hiroki-analytics.github.io/myblog/data-science/statistics-intro/</link><pubDate>Sat, 31 May 2025 21:40:47 +0200</pubDate><guid>https://hiroki-analytics.github.io/myblog/data-science/statistics-intro/</guid><description>&lt;p>今回は統計学の導入記事を書いてみたいと思います。&lt;/p>
+&lt;p>統計学は、大きく「記述統計」と「推測統計」に分かれます。&lt;/p>
+&lt;p>「記述統計」は、取得したデータの平均値や分散などを計算し、データから現状を読み取ることを目的としたものです。&lt;/p>
+&lt;p>それとは反対に、「推測統計」とは、今あるデータから、未来やデータの存在しない部分に関する予測を行うことを目的としたものです。&lt;/p></description></item><item><title>Pythonの基礎</title><link>https://hiroki-analytics.github.io/myblog/data-science/python-basics/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://hiroki-analytics.github.io/myblog/data-science/python-basics/</guid><description>&lt;p>この記事では、Pythonの基本的な文法について紹介します。&lt;/p></description></item></channel></rss>
